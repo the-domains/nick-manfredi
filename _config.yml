@@ -1,29 +1,41 @@
-name: Nick Manfredi
-favicon: null
-layout_spectrum: 0.03565
-typography_spectrum: 0.81214
 title: Nick Manfredi
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.06035996577702463
+  brandStrength: 0.005782878026366234
+  rhythmicContrast: 0.9022293842863292
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.005782878026366234
   lightness: 0.551916949916631
-  saturation: 0.06035996577702463
-  rhythmicContrast: 0.9022293842863292
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Nick Manfredi
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.81214
+layout_spectrum: 0.3082437
