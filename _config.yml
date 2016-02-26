@@ -1,5 +1,8 @@
+name: Nick Manfredi
+favicon: null
+layout_spectrum: 0.8351254
+typography_spectrum: 0.5716846
 title: Nick Manfredi
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.9498208
-  lightness: 0.9175627
-  brandColors:
-    - '#1689FC'
-    - '#AC6503'
-    - '#FF904D'
-    - '#FAFFFF'
-    - '#78759B'
-  rhythmicContrast: 0.8691756
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Nick Manfredi
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5716846
-layout_spectrum: 0.8351254
+color:
+  brandColors:
+    - '#111111'
+    - '#101010'
+    - '#111111'
+    - '#101010'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
